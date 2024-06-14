@@ -1,1 +1,11 @@
-
+"RoomNumber","Type","Status"
+101,"AC Single","Available"
+102,"AC Single","Available"
+103,"AC Single","Available"
+104,"AC Double","Available"
+105,"AC Double","Available"
+106,"Non-AC Single","Available"
+107,"Non-AC Single","Available"
+108,"Non-AC Double","Reserved"
+109,"Non-AC Double","Available"
+110,"Non-AC Double","Available"
